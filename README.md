@@ -1,6 +1,2 @@
-# application\_test
-
-
-
 developer B story
-
+adding developer A story
